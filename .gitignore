@@ -1,0 +1,4 @@
+/.metadata/
+*.classpath
+OpenEvent_Java/.settings
+OpenEvent_Java/save_asso.ser
